@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a, span {
+    display: block;
+    text-decoration: none;
+    color: white;
+}
+
+button {
+    background-color: transparent;
+    cursor: pointer;
+}
+
+li {
+    list-style: none;
+}
+
+main {
+    background-color: black;
+}
+
+html {
+    scroll-behavior: smooth;
+}
